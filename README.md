@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Info on the project
+
+-The project is a clone of the Microsoft Teams chat component, developed with NextJS, selected frameworks and libraries such as Material-UI, Firebase, react-firebase-hooks, Timeago-react, moment and styled-components, and hosted via Vercel, with the url: purple-chat.vercel.appp 
+
 ## Getting Started
 
 First, run the development server:
